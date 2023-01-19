@@ -11,7 +11,7 @@ Please be aware that katie chess is not:
 
 This project is not in active development at this time.
 
-# Screenshots & Videos
+# Screenshots
 ![](docs/assets/ImmortalGame.mp4)
 
 ## Capturing
