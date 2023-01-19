@@ -12,9 +12,7 @@ Please be aware that katie chess is not:
 This project is not in active development at this time.
 
 # Screenshots & Videos
-<video width="640" height="480" controls>
-  <source src="docs/assets/ImmortalGame.mp4" type="video/mp4">
-</video> 
+![](docs/assets/ImmortalGame.mp4)
 
 ## Capturing
 ![](docs/assets/Capturing.png)
